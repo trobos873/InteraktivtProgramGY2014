@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteraktivtProgramGY14", "InteraktivtProgramGY14\InteraktivtProgramGY14\InteraktivtProgramGY14.csproj", "{E8BB74CD-AD0F-414C-B709-4A352382A9E8}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "InteraktivtProgramGY14Content", "InteraktivtProgramGY14\InteraktivtProgramGY14Content\InteraktivtProgramGY14Content.contentproj", "{1959F435-208F-4812-A62A-838A798EC598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8BB74CD-AD0F-414C-B709-4A352382A9E8}.Debug|x86.ActiveCfg = Debug|x86
+		{E8BB74CD-AD0F-414C-B709-4A352382A9E8}.Debug|x86.Build.0 = Debug|x86
+		{E8BB74CD-AD0F-414C-B709-4A352382A9E8}.Release|x86.ActiveCfg = Release|x86
+		{E8BB74CD-AD0F-414C-B709-4A352382A9E8}.Release|x86.Build.0 = Release|x86
+		{1959F435-208F-4812-A62A-838A798EC598}.Debug|x86.ActiveCfg = Debug|x86
+		{1959F435-208F-4812-A62A-838A798EC598}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
